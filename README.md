@@ -1,2 +1,2 @@
-# powerbi-bedroom-revenue-dashboard
-A Power BI dashboard showing revenue insights by bedroom type
+# Data professional Survey Breakdown
+A Breakdown of the Data professional Survey
