@@ -1,4 +1,5 @@
-Data Professional Survey Breakdown
+Data Professional Survey Breakdown - 
+
 This Power BI project analyzes a comprehensive survey of data professionals worldwide. It provides insights into job roles, salaries, work-life balance, and other key aspects of the data industry.
 
 Project Overview
